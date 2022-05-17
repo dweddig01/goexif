@@ -12,8 +12,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/rwcarlsen/goexif/exif"
-	"github.com/rwcarlsen/goexif/tiff"
+	"github.com/dweddig01/goexif/exif"
+	"github.com/dweddig01/goexif/tiff"
 )
 
 func main() {
